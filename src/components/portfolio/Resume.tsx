@@ -21,7 +21,7 @@ export function Resume() {
           <div className="flex-1">
             <h3 className="text-2xl font-extrabold">Praveen Kumar M — Resume</h3>
             <p className="mt-1 text-sm text-muted-foreground">
-              Java Backend Developer · Spring Boot · Fintech Integrations · 10+ months experience
+              Java Backend Developer · Spring Boot · Fintech Integrations · 11+ months experience
             </p>
           </div>
           <a
