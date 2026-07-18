@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { Download, FileText } from "lucide-react";
 import { Section } from "./Section";
-import resumePdf from "@/assets/praveenkumar-Java Developer (1).pdf";
+import resumePdf from "@/assets/praveenkumar-Java_Developer.pdf";
 
 export function Resume() {
   return (

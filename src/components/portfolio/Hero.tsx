@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { motion } from "motion/react";
 import { ArrowRight, Download, Mail, Github, Linkedin, Sparkles } from "lucide-react";
 import portrait from "@/assets/praveen-portrait.png";
-import resumePdf from "@/assets/praveenkumar-Java Developer (1).pdf";
+import resumePdf from "@/assets/praveenkumar-Java_Developer.pdf";
 
 const roles = [
   "Java Backend Developer",

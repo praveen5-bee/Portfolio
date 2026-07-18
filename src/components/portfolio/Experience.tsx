@@ -34,7 +34,7 @@ export function Experience() {
                 <p className="text-primary font-semibold">Rupenet Technology Solutions</p>
               </div>
               <span className="rounded-full glass px-3 py-1 text-xs font-medium text-muted-foreground">
-                September 2025 – June 2026
+                September 2025 – July 2026
               </span>
             </div>
             <ul className="mt-5 grid gap-3 sm:grid-cols-2">
