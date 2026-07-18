@@ -164,7 +164,7 @@ export function Hero() {
               className="absolute -top-4 -right-4 glass-strong rounded-2xl px-4 py-3 shadow-elevated"
             >
               <div className="text-[10px] uppercase tracking-wider text-black">Experience</div>
-              <div className="text-sm font-bold text-primary">10+ Months</div>
+              <div className="text-sm font-bold text-primary">11+ Months</div>
             </motion.div>
           </div>
         </motion.div>
