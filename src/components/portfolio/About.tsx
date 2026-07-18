@@ -4,7 +4,7 @@ import { Section } from "./Section";
 
 const stats = [
   { value: 3, suffix: "+", label: "Fintech Platforms Built" },
-  { value: 50, suffix: "+", label: "Production APIs Developed" },
+  { value: 150, suffix: "+", label: "Production APIs Developed" },
   { value: 5, suffix: "+", label: "Third-Party Integrations" },
   { value: 300, suffix: "+", label: "Coding Problems Solved" },
 ];

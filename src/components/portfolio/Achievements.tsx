@@ -1,6 +1,7 @@
 import { motion } from "motion/react";
 import { Section } from "./Section";
-import { Trophy, Award, GraduationCap, BadgeCheck } from "lucide-react";
+import { Trophy, Award, GraduationCap, BadgeCheck , Star} from "lucide-react";
+
 
 const achievements = [
   "300+ Coding Problems Solved",
@@ -10,6 +11,7 @@ const achievements = [
 ];
 
 const certs = [
+  { icon: Star, name: "Star Employee of the Month" },
   { icon: BadgeCheck, name: "Java SE 11 Developer Certification" },
   { icon: GraduationCap, name: "Meta Database Fundamentals" },
   { icon: Award, name: "Google Python Programming" },
